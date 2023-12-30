@@ -19,7 +19,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Certifications</h2>
+<h2>📚 Certifications</h2>
 
 - [Google Cyber Security](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [ISC2-CC](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -31,7 +31,7 @@
 
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="RomeoValdez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
