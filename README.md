@@ -23,7 +23,7 @@
 - [Google Cyber Security](https://coursera.org/share/02b6acf65e8a92ca880727acf4a32b81)
 - [ISC2-CC](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [AWS Cloud Technology Consultant](https://coursera.org/share/1a735a096b95a3cd817dcf2ac4b0d09c)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Ethical Hacking Essentials](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
 
 <h2> 🤳 Connect with me:</h2>
