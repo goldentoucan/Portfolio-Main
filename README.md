@@ -1,5 +1,5 @@
 # Portfolio-Main
-<h1>Hi, I'm Romeo! <br/><a href="https://github.com/joshmadakor1">Operations Manager</a>,  <a href="https://www.linkedin.com/in/romeo-valdez-pxccincidentmanager/">Cybersecurity Professional</a>
+<h1>Hi, I'm Romeo! <br/><a href="https://github.com/goldentoucan/Portfolio-Main/">Operations Manager</a>,  <a href="https://www.linkedin.com/in/romeo-valdez-pxccincidentmanager/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
