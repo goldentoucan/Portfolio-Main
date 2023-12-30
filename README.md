@@ -21,7 +21,7 @@
 
 <h2>📚 Certifications</h2>
 
-- [Google Cyber Security](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cyber Security](https://coursera.org/share/02b6acf65e8a92ca880727acf4a32b81)
 - [ISC2-CC](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
