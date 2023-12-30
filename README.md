@@ -12,7 +12,7 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Vulnerbility Scanning</b>
-  - [Burpsuite fserver side vulnerbilities)](https://coursera.org/share/c94615b29512cbdcaaf44a263a66de68)
+  - [Burpsuite server side vulnerbilities](https://coursera.org/share/c94615b29512cbdcaaf44a263a66de68)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
