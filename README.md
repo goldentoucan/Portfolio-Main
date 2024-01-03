@@ -1,11 +1,12 @@
 <h1>Hi, I'm Romeo! <br/><a href="https://github.com/goldentoucan/Portfolio-Main/">Operations Manager</a>,  <a href="https://www.linkedin.com/in/romeo-valdez-pxccincidentmanager/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>   <script src="https://tryhackme.com/badge/2630975"></script>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Hacking Labs</b>
-  - [TryHackMe Hacking badges](https://tryhackme.com/badge/2630975)
+- <b>TryHackMe Hacking Labs</b>
+  - [Pentesting Principles]([https://tryhackme.com/badge/2630975](https://tryhackme.com/RomeoValdez/badges/intro-to-pentesting))
+  - [Burp Suite Module](https://tryhackme.com/RomeoValdez/badges/burped)
 - <b>Wireshark Packet analysis</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -32,7 +33,7 @@
 
 
 [<img align="left" alt="RomeoValdez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<script src="https://tryhackme.com/badge/2630975"></script>
+
 
 
 
