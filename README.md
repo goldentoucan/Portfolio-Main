@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>TryHackMe Hacking Labs</b>
-  - [Pentesting Principles]([https://tryhackme.com/badge/2630975](https://tryhackme.com/RomeoValdez/badges/intro-to-pentesting))
+  - [Pentesting Principles](https://tryhackme.com/RomeoValdez/badges/intro-to-pentesting)
   - [Burp Suite Module](https://tryhackme.com/RomeoValdez/badges/burped)
 - <b>Wireshark Packet analysis</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
