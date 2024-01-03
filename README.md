@@ -26,14 +26,13 @@
 - [EC-Council: Ethical Hacking Essentials](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/RomeoValdez.png" alt="TryHackMe">
-
 
 <h2> 🤳 Connect with me:</h2>
 
 
 
 [<img align="left" alt="RomeoValdez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<script src="https://tryhackme.com/badge/2630975"></script>
 
 
 
