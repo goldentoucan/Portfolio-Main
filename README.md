@@ -1,7 +1,6 @@
 <h1>Hi, I'm Romeo! <br/><a href="https://github.com/goldentoucan/Portfolio-Main/">Operations Manager</a>,  <a href="https://www.linkedin.com/in/romeo-valdez-pxccincidentmanager/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>  
-<script src="https://tryhackme.com/badge/2630975"></script>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -34,7 +33,7 @@
 
 
 [<img align="left" alt="RomeoValdez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<script src="https://tryhackme.com/badge/2630975"></script>
 
 
 
