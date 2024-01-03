@@ -7,6 +7,7 @@
 - <b>TryHackMe Hacking Labs</b>
   - [Pentesting Principles](https://tryhackme.com/RomeoValdez/badges/intro-to-pentesting)
   - [Burp Suite Module](https://tryhackme.com/RomeoValdez/badges/burped)
+  - [OWASP Top 10: Understanding Vulnerbilities](https://tryhackme.com/RomeoValdez/badges/owasp-10)
 - <b>Wireshark Packet analysis</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
