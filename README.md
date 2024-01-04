@@ -18,7 +18,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Google Crash Course on Python]([https://coursera.org/share/75d76224744115e372cc1db09ea40b85)
+  - [Google Crash Course on Python](https://coursera.org/share/75d76224744115e372cc1db09ea40b85)
 
 <h2>📚 Certifications</h2>
 
