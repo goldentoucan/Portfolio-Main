@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2> 
 
-- <b>CISCO Networking Academy)</b>
+- <b>CISCO Networking Academy</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>TryHackMe Hacking Labs</b>
   - [Pentesting Principles](https://tryhackme.com/RomeoValdez/badges/intro-to-pentesting)
