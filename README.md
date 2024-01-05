@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2> 
 
 - <b>CISCO Networking Academy</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Introduction to Cyber Security](https://www.credly.com/badges/7a13ca5f-81a8-473b-b39e-6a1b408d8c61/public_url)
 - <b>TryHackMe Hacking Labs</b>
   - [Pentesting Principles](https://tryhackme.com/RomeoValdez/badges/intro-to-pentesting)
   - [Burp Suite Module](https://tryhackme.com/RomeoValdez/badges/burped)
@@ -26,6 +26,7 @@
 - [ISC2-CC](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [AWS Cloud Technology Consultant](https://coursera.org/share/1a735a096b95a3cd817dcf2ac4b0d09c)
 - [EC-Council: Ethical Hacking Essentials](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Cisco: Introduction to Cybersecurity](https://www.credly.com/badges/7a13ca5f-81a8-473b-b39e-6a1b408d8c61/public_url)
 
 
 
