@@ -13,10 +13,9 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>Burp Vulnerbility Scanning</b>
   - [Burpsuite server side vulnerbilities](https://coursera.org/share/c94615b29512cbdcaaf44a263a66de68)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
 - <b>Python Automation</b>
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
   - [Google Crash Course on Python](https://coursera.org/share/75d76224744115e372cc1db09ea40b85)
+  - [Devleoping Applications in Python on AWS](https://coursera.org/share/3199ed566cb2b924d3e61eb56d81affb)
 
 <h2>📚 Certifications</h2>
 
