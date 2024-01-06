@@ -1,0 +1,74 @@
+import requests
+import sslyze
+
+def check_security_headers(url):
+    try:
+        # Send an HTTP GET request to the specified URL
+        response = requests.get(url)
+
+        # Check if the request was successful (status code 200)
+        if response.status_code == 200:
+            # Extract and print security-related headers
+            headers = response.headers
+            print("Security Headers:")
+            print(f"Strict-Transport-Security: {headers.get('Strict-Transport-Security', 'Not set')}")
+            print(f"Content-Security-Policy: {headers.get('Content-Security-Policy', 'Not set')}")
+            print(f"X-Frame-Options: {headers.get('X-Frame-Options', 'Not set')}")
+            print(f"X-XSS-Protection: {headers.get('X-XSS-Protection', 'Not set')}")
+            print(f"X-Content-Type-Options: {headers.get('X-Content-Type-Options', 'Not set')}")
+        else:
+            print(f"Failed to retrieve the page. Status code: {response.status_code}")
+    except requests.RequestException as e:
+        print(f"An error occurred: {e}")
+
+def scan_open_ports(hostname):
+    try:
+        # Use nmap to scan for open ports
+        open_ports = []
+        scanner = sslyze.Scanner()
+
+        # Perform an initial scan to discover open ports
+        scan_result = scanner.start_scan(hostname)
+
+        # Extract open ports from the scan result
+        for target in scan_result.as_dict()['accepted_targets']:
+            for port in target['accepted_targets'][0]['ports']:
+                open_ports.append(port['port'])
+
+        print("\nOpen Ports:")
+        print(open_ports)
+    except Exception as e:
+        print(f"An error occurred during port scanning: {e}")
+
+def scan_tls_vulnerabilities(hostname):
+    try:
+        # Use sslyze to scan for TLS vulnerabilities
+        scanner = sslyze.Scanner()
+
+        # Perform a TLS scan
+        scan_result = scanner.start_scan(hostname)
+
+        # Extract TLS vulnerabilities from the scan result
+        vulnerabilities = scan_result.accepted_targets[0].vulnerabilities
+        if vulnerabilities:
+            print("\nTLS Vulnerabilities:")
+            for vulnerability in vulnerabilities:
+                print(vulnerability)
+        else:
+            print("\nNo TLS vulnerabilities found.")
+    except Exception as e:
+        print(f"An error occurred during TLS scanning: {e}")
+
+# Example usage
+if __name__ == "__main__":
+    website_url = "https://example.com"
+    check_security_headers(website_url)
+    
+    # Extract the hostname from the URL
+    hostname = requests.utils.urlparse(website_url).hostname
+
+    # Perform port scanning
+    scan_open_ports(hostname)
+
+    # Perform TLS vulnerability scanning
+    scan_tls_vulnerabilities(hostname)
