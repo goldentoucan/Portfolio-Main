@@ -28,7 +28,7 @@
 
 
 
-<script src="https://tryhackme.com/badge/2630975"></script> <h2> 🤳 Connect with me:</h2>
+<<script src="https://tryhackme.com/badge/2630975"></script>> <h2> 🤳 Connect with me:</h2>
 
 
 
