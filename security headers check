@@ -1,0 +1,26 @@
+import requests
+
+def check_security_headers(url):
+    try:
+        # Send an HTTP GET request to the specified URL
+        response = requests.get(url)
+
+        # Check if the request was successful (status code 200)
+        if response.status_code == 200:
+            # Extract and print security-related headers
+            headers = response.headers
+            print("Security Headers:")
+            print(f"Strict-Transport-Security: {headers.get('Strict-Transport-Security', 'Not set')}")
+            print(f"Content-Security-Policy: {headers.get('Content-Security-Policy', 'Not set')}")
+            print(f"X-Frame-Options: {headers.get('X-Frame-Options', 'Not set')}")
+            print(f"X-XSS-Protection: {headers.get('X-XSS-Protection', 'Not set')}")
+            print(f"X-Content-Type-Options: {headers.get('X-Content-Type-Options', 'Not set')}")
+        else:
+            print(f"Failed to retrieve the page. Status code: {response.status_code}")
+    except requests.RequestException as e:
+        print(f"An error occurred: {e}")
+
+# Example usage
+if __name__ == "__main__":
+    website_url = "https://example.com"
+    check_security_headers(website_url)
