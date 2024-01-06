@@ -9,10 +9,8 @@
   - [Burp Suite Module](https://tryhackme.com/RomeoValdez/badges/burped)
   - [OWASP Top 10: Understanding Vulnerbilities](https://tryhackme.com/RomeoValdez/badges/owasp-10)
 - <b>Wireshark Packet analysis</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Wireshark for Basic Network Security Analysis](https://coursera.org/share/167a0d4640c57c946e851cadceac68d4)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Burp Vulnerbility Scanning</b>
   - [Burpsuite server side vulnerbilities](https://coursera.org/share/c94615b29512cbdcaaf44a263a66de68)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
