@@ -11,7 +11,7 @@
   - [OWASP Top 10: Understanding Vulnerbilities](https://tryhackme.com/RomeoValdez/badges/owasp-10)
 - <b>Wireshark Packet analysis</b>
   - [Wireshark for Basic Network Security Analysis](https://coursera.org/share/167a0d4640c57c946e851cadceac68d4)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [TryHackMe Wireshark Lab](https://tryhackme.com/RomeoValdez/badges/wireshark)
 - <b>Burp Vulnerbility Scanning</b>
   - [Burpsuite server side vulnerbilities](https://coursera.org/share/c94615b29512cbdcaaf44a263a66de68)
 - <b>Python</b>
