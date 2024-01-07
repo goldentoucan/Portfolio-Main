@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2> 
 
-- <b>CISCO Networking Academy</b>
-  - [Introduction to Cyber Security](https://www.credly.com/badges/7a13ca5f-81a8-473b-b39e-6a1b408d8c61/public_url)
+- <b>Networking</b>
+  - [CISCO Networking Academy: Introduction to Cyber Security](https://www.credly.com/badges/7a13ca5f-81a8-473b-b39e-6a1b408d8c61/public_url)
+  - [Palo Alto Networks Security](https://coursera.org/share/6278e9ffe38a5769ef23216d741ca36f)
 - <b>TryHackMe Hacking Labs</b>
   - [Pentesting Principles](https://tryhackme.com/RomeoValdez/badges/intro-to-pentesting)
   - [Burp Suite Module](https://tryhackme.com/RomeoValdez/badges/burped)
