@@ -22,7 +22,6 @@
 <h2>📚 Certifications</h2>
 
 - [Google Cyber Security](https://coursera.org/share/02b6acf65e8a92ca880727acf4a32b81)
-- [ISC2-CC](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [AWS Cloud Technology Consultant](https://coursera.org/share/1a735a096b95a3cd817dcf2ac4b0d09c)
 - [EC-Council: Ethical Hacking Essentials](https://coursera.org/share/214c02c48dfb2c2e8cb58a29aa1d074b)
 - [Cisco: Introduction to Cybersecurity](https://www.credly.com/badges/7a13ca5f-81a8-473b-b39e-6a1b408d8c61/public_url)
