@@ -17,7 +17,7 @@
 - <b>Python</b>
   - [Security Header Check](https://github.com/goldentoucan/Portfolio-Main/blob/2ed6f714c4ea8e8357790dd40835e74b02992c7d/security%20headers%20check)
   - [Google Crash Course on Python](https://coursera.org/share/75d76224744115e372cc1db09ea40b85)
-  - [Devleoping Applications in Python on AWS](https://coursera.org/share/3199ed566cb2b924d3e61eb56d81affb)
+  - [Developing Applications in Python on AWS](https://coursera.org/share/3199ed566cb2b924d3e61eb56d81affb)
 
 <h2>📚 Certifications</h2>
 
