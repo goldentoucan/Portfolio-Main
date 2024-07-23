@@ -38,7 +38,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/romeo-valdez-pxccincidentmanager
+[linkedin]: https://linkedin.com/in/romeo-valdez-cybersecurity-operations
 
 <!--
 **goldentoucan/portfoliomain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
