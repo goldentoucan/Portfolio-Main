@@ -25,8 +25,8 @@
 - [Google Cyber Security](https://coursera.org/share/02b6acf65e8a92ca880727acf4a32b81)
 - [AWS Cloud Technology Consultant](https://coursera.org/share/1a735a096b95a3cd817dcf2ac4b0d09c)
 - [EC-Council: Ethical Hacking Essentials](https://coursera.org/share/214c02c48dfb2c2e8cb58a29aa1d074b)
-- [Cisco: Introduction to Cybersecurity](https://www.credly.com/badges/7a13ca5f-81a8-473b-b39e-6a1b408d8c61/public_url)
-- [ISC2](https://www.credly.com/badges/06103799-d184-40de-ab23-605890409e13/public_url)
+- [Cisco: Networking Academy: Endpoint Security](https://www.credly.com/badges/dd5ce20f-c7dd-4e84-b665-c7b43159be56/public_url)
+- [ISC2: Certified in Cybersecurity](https://www.credly.com/badges/06103799-d184-40de-ab23-605890409e13/public_url)
 
 
 
